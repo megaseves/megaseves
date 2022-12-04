@@ -3,7 +3,7 @@
 
 🔭 I’m currently studying at Codecool. I like frontend development the most, but I studied several frontend and backend technologies.
 
-✨ Skills: React, Javascript, HTML, CSS, Java, Spring, JPA, Flask, PostgreSQL, Jinja, Thymeleaf. I just tarted learning NodeJS.
+✨ Skills: React, Javascript, HTML, CSS, Java, Spring, JPA, PostgreSQL, Python, Flask, Jinja, Thymeleaf. I just tarted learning NodeJS.
 
 
 <a href="https://www.linkedin.com/in/schmiedt-attila-554344259/">LinkedIn profile</a>
