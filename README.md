@@ -4,7 +4,8 @@
 🔭 I’m currently studying at Codecool. I like frontend development the most, but I studied several frontend and backend technologies.
 
 ## ✨ Skills:
-![HTML](https://github.com/megaseves/megaseves/blob/main/skills/html.png)
+![HTML](https://github.com/megaseves/megaseves/blob/main/skills/html.png) ![CSS](https://github.com/megaseves/megaseves/blob/main/skills/css.png) ![JS](https://github.com/megaseves/megaseves/blob/main/skills/js.png) ![REACT](https://github.com/megaseves/megaseves/blob/main/skills/react.png) ![VUE](https://github.com/megaseves/megaseves/blob/main/skills/vue.png) ![NODEJS](https://github.com/megaseves/megaseves/blob/main/skills/node.png) ![PYTHON](https://github.com/megaseves/megaseves/blob/main/skills/python.png) ![JAVA](https://github.com/megaseves/megaseves/blob/main/skills/java.png) ![POSTGRESQL](https://github.com/megaseves/megaseves/blob/main/skills/postgresql.png) ![HEROKU](https://github.com/megaseves/megaseves/blob/main/skills/heroku.png) ![FIREBASE](https://github.com/megaseves/megaseves/blob/main/skills/firebase.png)
+
 React, Javascript, HTML, CSS, Java, Spring, JPA, PostgreSQL, Python, Flask, Jinja, Thymeleaf. I just tarted learning NodeJS.
 
 
